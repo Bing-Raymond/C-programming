@@ -1,0 +1,7 @@
+﻿  9_9.cpp
+e:\workspace\cppproject\src_relearn\relearn\9_9\9_9.h(78): warning C4244: 'argument': conversion from 'double' to 'const T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  9_9.vcxproj -> E:\workspace\cppProject\src_relearn\relearn\x64\Debug\9_9.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\workspace\cppproject\src_relearn\relearn\7_8\header.h(32): error C2584: 'D2': direct base 'B0' is inaccessible; already a base of 'B2'
+  e:\workspace\cppproject\src_relearn\relearn\7_8\header.h(6): note: see declaration of 'B0'
+  e:\workspace\cppproject\src_relearn\relearn\7_8\header.h(18): note: see declaration of 'B2'

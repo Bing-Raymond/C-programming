@@ -1,0 +1,4 @@
+﻿  10_10.cpp
+E:\workspace\cppProject\src_relearn\relearn\10_10\10_10.cpp(69,9): warning C4858: 正在放弃返回值: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+E:\workspace\cppProject\src_relearn\relearn\10_10\10_10.cpp(80,12): warning C4858: 正在放弃返回值: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+  10_10.vcxproj -> E:\workspace\cppProject\src_relearn\relearn\Debug\10_10.exe

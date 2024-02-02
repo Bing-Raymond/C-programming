@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\workspace\cppproject\src_relearn\relearn\6_11\source.cpp(34): warning C4305: 'argument': truncation from 'double' to 'float'
+  6_11.vcxproj -> E:\workspace\cppProject\src_relearn\relearn\x64\Debug\6_11.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\workspace\cppproject\src_relearn\relearn\7_5_2\header.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  7_5_2.vcxproj -> E:\workspace\cppProject\src_relearn\relearn\x64\Debug\7_5_2.exe

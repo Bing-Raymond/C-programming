@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\workspace\cppproject\src_relearn\relearn\6_25\source.cpp(25): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+  6_25.vcxproj -> E:\workspace\cppProject\src_relearn\relearn\x64\Debug\6_25.exe

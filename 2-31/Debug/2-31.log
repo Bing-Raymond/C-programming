@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\workspace\src_relearn\relearn\2-31\Source.cpp(9,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  2-31.vcxproj -> E:\workspace\src_relearn\relearn\Debug\2-31.exe
